@@ -7,7 +7,7 @@ categories: [Designer]
 ---
 
 {{% pageinfo %}}
-Page under construction.
+Page under construction.tries so hard got so far
 {{% /pageinfo %}}
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
